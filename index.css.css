@@ -1,0 +1,43 @@
+body {
+    background-color: lavender; 
+}
+ .header {
+     text-align: right;
+     position: fixed;
+     top: 0;
+     right: 0;
+     left: 0;
+     background-color: white;
+     padding: 20px 20px 20px 20px; 
+ }
+
+h1 {
+    text-align: left;
+    padding-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form1 {
+    text-align: center;
+    border: solid 1px grey;
+    background-color: whitesmoke;
+    height: 350px;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+button {
+    background-color: grey;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+img {
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+}
